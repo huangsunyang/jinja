@@ -26,7 +26,7 @@
     :copyright: (c) 2017 by the Jinja Team.
     :license: BSD, see LICENSE for more details.
 """
-__version__ = "2.11.0.dev0"
+__version__ = "2.11.0rc1"
 
 # high level interface
 from jinja.environment import Environment, Template

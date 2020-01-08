@@ -8,7 +8,7 @@ with io.open("README.rst", "rt", encoding="utf8") as f:
 
 setup(
     name="Jinja2",
-    version="2.11.0",
+    version="2.11.0rc1",
     url="https://palletsprojects.com/p/jinja/",
     project_urls={
         "Documentation": "https://jinja.palletsprojects.com/",
